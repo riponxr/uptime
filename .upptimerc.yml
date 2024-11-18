@@ -9,8 +9,6 @@ sites:
     url: https://bgmi.in
   - name: Thought of the Day
     url: https://thoughtoftheday.me
-  - name: IPv6 test
-    url: forwardemail.net
     port: 80
     check: "tcp-ping"
     ipv6: true
