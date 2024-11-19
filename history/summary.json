@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/instabiohelp.com.ico",
     "slug": "insta-biohelp",
     "status": "up",
-    "uptime": "96.52%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "96.52%",
-    "uptimeMonth": "96.52%",
-    "uptimeYear": "96.52%",
-    "time": 5950,
-    "timeDay": 5950,
-    "timeWeek": 5950,
-    "timeMonth": 5950,
-    "timeYear": 5950,
+    "uptime": "97.29%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "97.29%",
+    "time": 4851,
+    "timeDay": 4851,
+    "timeWeek": 4851,
+    "timeMonth": 4851,
+    "timeYear": 4851,
     "dailyMinutesDown": {
-      "2024-11-18": 35
+      "2024-11-18": 31
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 472,
-    "timeWeek": 472,
-    "timeMonth": 472,
-    "timeYear": 472,
+    "time": 466,
+    "timeDay": 466,
+    "timeWeek": 466,
+    "timeMonth": 466,
+    "timeYear": 466,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/thoughtoftheday.me.ico",
     "slug": "thought-of-the-day",
     "status": "down",
-    "uptime": "48.74%",
-    "uptimeDay": "48.74%",
-    "uptimeWeek": "48.74%",
-    "uptimeMonth": "48.74%",
-    "uptimeYear": "48.74%",
+    "uptime": "43.39%",
+    "uptimeDay": "43.39%",
+    "uptimeWeek": "43.39%",
+    "uptimeMonth": "43.39%",
+    "uptimeYear": "43.39%",
     "time": 3513,
     "timeDay": 3513,
     "timeWeek": 3513,
     "timeMonth": 3513,
     "timeYear": 3513,
     "dailyMinutesDown": {
-      "2024-11-18": 530
+      "2024-11-19": 57,
+      "2024-11-18": 601
     }
   }
 ]
